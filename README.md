@@ -7,6 +7,6 @@
   <h3>crianças ( )</h3>
   <head>homem</head>
   <head1>mulher</head1>
-  <head2>mulher</head2>
+  <head2>criança</head2>
   
 </html>
